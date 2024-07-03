@@ -37,7 +37,7 @@ Password: Test@123
    cd Ambulance-Booking-System
    ```
 3. **Import the database:**
-   - Create a database named `ambulance` in your MySQL server.
+   - Create a database named `eahpdb` in your MySQL server.
    - Import the provided SQL file (`eahpdb.sql`) into the database.
 
 4. **Configure the database connection:**
